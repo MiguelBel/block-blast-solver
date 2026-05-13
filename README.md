@@ -21,4 +21,4 @@ Block Blast Solver is an online tool that analyzes Block Blast puzzle boards and
 • PostgreSQL (Supabase)
 
 **Official Website**
-https://www.blockblastsolver.com
+[Block Blast Solver](https://www.blockblastsolver.com)
